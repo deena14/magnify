@@ -2656,6 +2656,7 @@ section {
 .footer .footer-info p {
   font-size: 14px;
   font-family: var(--font-primary);
+  color: #bbbbbb;
 }
 
 .footer .social-links a {
@@ -2724,6 +2725,7 @@ section {
 
 .footer .footer-contact p {
   line-height: 26px;
+  color: #e4e4e4;
 }
 
 .footer .copyright {
