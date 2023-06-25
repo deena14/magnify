@@ -34,7 +34,7 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: var(--font-default);
+  font-family: Fira Sans;
   color: var(--color-default);
   margin-top: 0;
 }
@@ -54,7 +54,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: var(--font-primary);
+  font-family: Fira Sans;
 }
 
 /*--------------------------------------------------------------
@@ -114,7 +114,7 @@ section {
   font-size: 56px;
   font-weight: 500;
   color: #fff;
-  font-family: var(--font-secondary);
+  font-family: Fira Sans;
 }
 
 .breadcrumbs .page-header p {
@@ -363,7 +363,7 @@ section {
     align-items: center;
     justify-content: space-between;
     padding: 0 3px;
-    font-family: var(--font-secondary);
+    font-family: Fira Sans;
     font-size: 16px;
     font-weight: 600;
     color: white;
@@ -516,7 +516,7 @@ section {
     align-items: center;
     justify-content: space-between;
     padding: 10px 20px;
-    font-family: var(--font-primary);
+    font-family: Fira Sans;
     font-size: 15px;
     font-weight: 600;
     color: rgba(255, 255, 255, 0.7);
@@ -784,7 +784,7 @@ section {
   font-weight: 700;
   font-size: 28px;
   margin-bottom: 20px;
-  font-family: var(--font-secondary);
+  font-family: Fira Sans;
 }
 
 .about .call-us {
@@ -997,7 +997,7 @@ section {
 
 .stats-counter .stats-item p {
   margin: 0;
-  font-family: var(--font-primary);
+  font-family: Fira Sans;
   font-size: 14px;
 }
 
@@ -1097,7 +1097,7 @@ section {
 }
 
 .call-to-action .cta-btn {
-  font-family: var(--font-primary);
+  font-family: Fira Sans;
   font-weight: 500;
   font-size: 16px;
   letter-spacing: 1px;
@@ -1699,7 +1699,7 @@ section {
   font-size: 48px;
   color: var(--color-secondary);
   font-weight: 700;
-  font-family: var(--font-secondary);
+  font-family: Fira Sans;
   margin-bottom: 0;
   text-align: center;
 }
@@ -1755,7 +1755,7 @@ section {
   transition: none;
   font-size: 16px;
   font-weight: 600;
-  font-family: var(--font-primary);
+  font-family: Fira Sans;
   transition: 0.3s;
 }
 
@@ -2112,7 +2112,7 @@ section {
 }
 
 .hero .btn-get-started {
-  font-family: var(--font-primary);
+  font-family: Fira Sans;
   font-weight: 500;
   font-size: 15px;
   letter-spacing: 1px;
@@ -2796,12 +2796,12 @@ section {
   font-weight: 700;
   letter-spacing: 1px;
   color: #fff;
-  font-family: var(--font-primary);
+  font-family: Fira Sans;
 }
 
 .footer .footer-info p {
   font-size: 14px;
-  font-family: var(--font-primary);
+  font-family: Fira Sans;
   color: #bbbbbb;
 }
 
